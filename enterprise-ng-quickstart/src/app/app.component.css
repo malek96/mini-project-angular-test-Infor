@@ -1,0 +1,20 @@
+/* td[data-key*="20220328"] {
+    background: #f0f0f0;
+ } */
+
+ .is-weekend{
+     background: #f0f0f0;
+
+ }
+ .is-not-weekend{
+     background: rgb(107, 192, 114);
+ } 
+ 
+ 
+ .is-highlight{
+     background: #fcdf80!important;
+ } 
+ 
+ .is-border{
+     border: 3px solid red !important
+ }
